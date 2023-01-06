@@ -51,7 +51,7 @@ lalu Klik Foatting acion button yang ke dua paling kanan bawah untuk upload phot
 
 --------------------------------------------------------------------------
 - Ok Thank You
-![anya](https://user-images.githubusercontent.com/78133295/211037183-d0eb0e1f-f9ab-46c7-bdee-f20d849f8bb5.jpg)
+ - ![anya](https://user-images.githubusercontent.com/78133295/211037183-d0eb0e1f-f9ab-46c7-bdee-f20d849f8bb5.jpg)
 
 
 

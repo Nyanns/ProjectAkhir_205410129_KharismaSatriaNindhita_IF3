@@ -3,8 +3,8 @@
 Project Akhir Pemrograman Berbasis Mobile
 
 ------------------------------------------
-Nama : Kharisma Satria Nindhita ||
-NIM : 205410129 ||
+Nama : Kharisma Satria Nindhita |
+NIM : 205410129 |
 Kelas : IF - 3
 
 

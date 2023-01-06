@@ -1,16 +1,15 @@
-# miku_photo
+# 205410129 Kharisma Satria Nindhita IF3
+------------------------------------------
+Project Akhir Pemrograman Berbasis Mobile
 
-A new Flutter project.
+------------------------------------------
+Nama : Kharisma Satria Nindhita
+NIM : 205410129
+Kelas : IF - 3
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+------------------------------------------
+Project Akhir pembuatan Aplikasi
+Di sini saya membuat aplikasi bernama "MIKU", MIKU adalah aplikasi share Photo secara Online yang
+terispirasi dari PIXIV dan Devian Art, di Aplikasi ini User bisa mengupload photo mereka dan dapat
+melihat Upload tan User lain dan dapat mendownloadnya dan disimpan di Gallery SmartPhone User.

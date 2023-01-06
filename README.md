@@ -9,9 +9,12 @@ Kelas : IF - 3
 
 
 ------------------------------------------
+Deskripsi APP :
 Project Akhir pembuatan Aplikasi
 Di sini saya membuat aplikasi bernama "MIKU", MIKU adalah aplikasi share Photo secara Online yang
 terispirasi dari PIXIV dan Devian Art, di Aplikasi ini User bisa mengupload photo mereka dan dapat
 melihat Upload tan User lain dan dapat mendownloadnya dan disimpan di Gallery SmartPhone User.
 
-![anya](https://user-images.githubusercontent.com/78133295/211031656-aff73734-cdcf-457b-b937-793f22be6d59.jpg)
+Screenshot App :
+
+![anya](https://user-images.githubusercontent.com/78133295/211031835-48ec9916-e3de-4e49-bb89-75c837e6da83.jpg)

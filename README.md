@@ -1,6 +1,5 @@
-# 205410129 KharismaSatriaNindhita IF3
+# 205410129 Kharisma Satria Nindhita IF3
 Project Akhir Pemrograman Berbasis Mobile
-------------------------------------------
 Nama : Kharisma Satria Nindhita
 NIM : 205410129
 Kelas : IF - 3

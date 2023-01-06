@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "176364464974",
+    "project_id": "miku-share",
+    "storage_bucket": "miku-share.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176364464974:android:f02fbe8680825b7abbcc1f",
+        "android_client_info": {
+          "package_name": "com.example.miku_photo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176364464974-gb26ai5p35eq5nd5g5biom6lop5grqno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB82vScLevUWgs3iZIueaW-3oEJck9x16E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176364464974-gb26ai5p35eq5nd5g5biom6lop5grqno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
